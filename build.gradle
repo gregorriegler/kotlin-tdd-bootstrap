@@ -43,5 +43,5 @@ testlogger {
     showPassedStandardStreams true
     showSkippedStandardStreams true
     showFailedStandardStreams true
-    logLevel 'lifecycle'
+    logLevel 'error'
 }
